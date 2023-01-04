@@ -24,3 +24,8 @@ Este repositorio contiene los archivos trabajados en R y Stata en la quinta clas
 ## Trabajo práctico 6: Python-QGIS
 
 La consigna para este proyecto consistía en georeferenciar las capitales departamentales de la provincia de Corrientes en QGIS, buscar un shapefile con las rutas provinciales (en el trabajo sumamos las nacionales), generar una matriz de OD entre las ciudades y calcular la ruta más rápida entre dos de ellas. Todos los archivos y una mejor descripción se encuentran en el repositorio correspondiente.
+
+## Trabajo final
+
+En este repositorio se encuentra el trabajo final de la materia de Herramientas Computacionales de la Maestría en Economía, Universidad de San Andrés. 
+Este trabajo replica los resultados del paper de Nunn y Wantchekon (2011), a través de datos georeferenciados. En el repositorio se encuentra disponible el informe final, junto a los datos utilizados y un script de R necesario para trabajar con ellos. 
