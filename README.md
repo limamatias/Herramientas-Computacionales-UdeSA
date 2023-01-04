@@ -21,3 +21,6 @@ El objetivo de este trabajo es mostrar los códigos de Python correspondientes a
 
 Este repositorio contiene los archivos trabajados en R y Stata en la quinta clase de la materia, donde se realizaron dos tareas. Primero, se buscó modificar diversos gráficos para alcanzar una visualización de datos más fácil, explicando la utilización de los criterios de visualización de Schwabish. Segundo, se replicó un mapa de robos en Londres en los paquetes ggplot y tmap de R y spmap de Stata. Todos los archivos se encuentran disponibles en el repositorio.
 
+## Trabajo práctico 6: Python-QGIS
+
+La consigna para este proyecto consistía en georeferenciar las capitales departamentales de la provincia de Corrientes en QGIS, buscar un shapefile con las rutas provinciales (en el trabajo sumamos las nacionales), generar una matriz de OD entre las ciudades y calcular la ruta más rápida entre dos de ellas. Todos los archivos y una mejor descripción se encuentran en el repositorio correspondiente.
