@@ -17,7 +17,7 @@ El primer objetivo de la tarea era realizar un scrapping con Python de datos del
 
 El objetivo de este trabajo es mostrar los códigos de Python correspondientes a varios modelos realizados en QGIS para buscar replicar los resultados de Michalopoulos AER (2012), comentando los procesos y funciones. Los archivos con los script se encuentran en la carpeta "files" de este repositorio. Créditos a Sebastian Hohmann por su curso de investigación en QGIS.
 
-## Trabajo práctico 5: Data Visualization 
+## Trabajo práctico 5: Data visualization 
 
 Este repositorio contiene los archivos trabajados en R y Stata en la quinta clase de la materia, donde se realizaron dos tareas. Primero, se buscó modificar diversos gráficos para alcanzar una visualización de datos más fácil, explicando la utilización de los criterios de visualización de Schwabish. Segundo, se replicó un mapa de robos en Londres en los paquetes ggplot y tmap de R y spmap de Stata. Todos los archivos se encuentran disponibles en el repositorio.
 
